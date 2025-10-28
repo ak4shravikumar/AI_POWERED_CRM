@@ -152,50 +152,58 @@ Each screenshot highlights a key stage in the system’s functionality, powered 
 
 ### 🟢 1. Server Running
 MindsDB backend and Streamlit app started successfully.  
-![Server Running](document/start_app.png)
+
+![Server Running](./document/start_app.png)
 
 ---
 
 ### 🏠 2. App Opening Page
 Initial Streamlit UI where users can input natural language queries.  
-![App Opening Page](document/app_page.png)
+
+![App Opening Page](./document/app_page.png)
 
 ---
 
 ### 🎛️ 3. Applying Filters
 Demonstration of applying filters on CRM data before executing queries.  
-![Applying Filters](document/filters.png)
+
+![Applying Filters](./document/filters.png)
 
 ---
 
 ### 📊 4. Results Displayed
 Filtered CRM data results displayed in a clean Streamlit dashboard.  
-![Results](document/results.png)
+
+![Results Displayed](./document/results.png)
 
 ---
 
 ### 🤖 5. AI-Generated Reply
 AI-generated response from MindsDB using **Ollama Llama 3**, translating user queries into meaningful insights.  
-![AI Reply](document/ai_reply.png)
+
+![AI-Generated Reply](./document/ai_reply.png)
 
 ---
 
 ### 📁 6. Project Folder Structure
 Organized layout of the CRM Semantic Search project, showing code and document folders.  
-![Project Folder](document/folder.png)
+
+![Project Folder Structure](./document/folder.png)
 
 ---
 
 ### 🧠 7. MindsDB Semantic Query
 MindsDB interface showcasing the execution of semantic SQL queries and corresponding CRM results.  
-![MindsDB Query](document/mindsdb.png)
+
+![MindsDB Semantic Query](./document/mindsdb.png)
 
 ---
 
 ### 🧩 8. Architecture Overview
 End-to-end architecture diagram representing the system flow between  
 **Streamlit App → MindsDB (Ollama Llama 3) → MySQL Database**.  
-![Architecture](document/architecture.png)
+
+![Architecture Overview](./document/architecture.png)
 
 
 ---
