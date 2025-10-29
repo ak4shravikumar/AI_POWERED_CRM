@@ -150,52 +150,30 @@ Each screenshot highlights a key stage in the system’s functionality, powered 
 
 ---
 
-### 🟢 1. Server Running  
-MindsDB backend and Streamlit app started successfully.  
-<img src="https://raw.githubusercontent.com/ak4shravikumar/AI_POWERED_CRM/main/document/start_app.png" alt="Server Running" width="800"/>
+### 🟢 1. Server Running
+![Server Running](document/start_app.png)
 
----
+### 🏠 2. App Opening Page
+![App Opening Page](document/app_page.png)
 
-### 🏠 2. App Opening Page  
-Initial Streamlit UI where users can input natural-language queries.  
-<img src="https://raw.githubusercontent.com/ak4shravikumar/AI_POWERED_CRM/main/document/app_page.png" alt="App Opening Page" width="800"/>
+### 🎛️ 3. Applying Filters
+![Applying Filters](document/filters.png)
 
----
+### 📊 4. Results Displayed
+![Results Displayed](document/results.png)
 
-### 🎛️ 3. Applying Filters  
-Demonstration of applying filters on CRM data before executing queries.  
-<img src="https://raw.githubusercontent.com/ak4shravikumar/AI_POWERED_CRM/main/document/filters.png" alt="Applying Filters" width="800"/>
+### 🤖 5. AI-Generated Reply
+![AI Reply](document/ai_reply.png)
 
----
+### 📁 6. Project Folder Structure
+![Project Folder](document/folder.png)
 
-### 📊 4. Results Displayed  
-Filtered CRM data results displayed in a clean Streamlit dashboard.  
-<img src="https://raw.githubusercontent.com/ak4shravikumar/AI_POWERED_CRM/main/document/results.png" alt="Results Displayed" width="800"/>
+### 🧠 7. MindsDB Semantic Query
+![MindsDB Query](document/mindsdb.png)
 
----
+### 🧩 8. Architecture Overview
+![Architecture](document/architecture.png)
 
-### 🤖 5. AI-Generated Reply  
-AI-generated response from MindsDB using **Ollama Llama 3**, translating user queries into meaningful insights.  
-<img src="https://raw.githubusercontent.com/ak4shravikumar/AI_POWERED_CRM/main/document/ai_reply.png" alt="AI-Generated Reply" width="800"/>
-
----
-
-### 📁 6. Project Folder Structure  
-Organized layout of the CRM Semantic Search project, showing code and document folders.  
-<img src="https://raw.githubusercontent.com/ak4shravikumar/AI_POWERED_CRM/main/document/folder.png" alt="Project Folder Structure" width="800"/>
-
----
-
-### 🧠 7. MindsDB Semantic Query  
-MindsDB interface showcasing the execution of semantic SQL queries and corresponding CRM results.  
-<img src="https://raw.githubusercontent.com/ak4shravikumar/AI_POWERED_CRM/main/document/mindsdb.png" alt="MindsDB Semantic Query" width="800"/>
-
----
-
-### 🧩 8. Architecture Overview  
-End-to-end architecture diagram representing the system flow between  
-**Streamlit App → MindsDB (Ollama Llama 3) → MySQL Database**.  
-<img src="https://raw.githubusercontent.com/ak4shravikumar/AI_POWERED_CRM/main/document/architecture.png" alt="Architecture Overview" width="800"/>
 
 
 ---
