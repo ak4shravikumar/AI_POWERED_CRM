@@ -180,6 +180,14 @@ Each screenshot highlights a key stage in the system’s functionality, powered 
 
 ## 🔮 Future Improvements
 
+[Demo Video](https://youtu.be/ozX18AG6nzE)
+---
+
+
+---
+
+## 🔮 Future Improvements
+
 * Integrate **LangChain + RAG** for hybrid search and long-context memory
 * Extend to **multi-source CRM analytics** (Google Sheets, Notion, etc.)
 * Deploy Streamlit app on **Render / Streamlit Cloud**
