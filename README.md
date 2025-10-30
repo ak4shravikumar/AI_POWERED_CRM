@@ -219,4 +219,8 @@ With minimal setup, database queries become natural conversations — **unlockin
 
 ---
 
+## Author
+AKASH Y R
+
+---
 
